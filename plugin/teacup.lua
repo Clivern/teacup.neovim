@@ -1,1 +1,1 @@
-vim.api.nvim_create_user_command("MyFirstFunction", require("teacup").hello, {})
+vim.api.nvim_create_user_command("Teacup", require("teacup").hello, {})

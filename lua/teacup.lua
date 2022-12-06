@@ -21,7 +21,7 @@ M.setup = function(args)
 end
 
 M.hello = function()
-  return module.my_first_function(M.config.opt)
+  return module.great(M.config.opt)
 end
 
 return M

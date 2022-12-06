@@ -2,8 +2,8 @@
 local M = {}
 
 ---@return string
-M.my_first_function = function(greeting)
-  return greeting
+M.great = function(message)
+  return message
 end
 
 return M
