@@ -1,4 +1,4 @@
-*teacup-docs.txt*       For Neovim >= 0.8.0      Last change: 2024 November 04
+*teacup-docs.txt*       For Neovim >= 0.8.0      Last change: 2024 November 05
 
 ==============================================================================
 Table of Contents                              *teacup-docs-table-of-contents*
